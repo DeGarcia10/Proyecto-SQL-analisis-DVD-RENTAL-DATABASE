@@ -8,7 +8,7 @@ El proyecto consta de dos partes, en primer lugar en el marco de un posible obje
 
 El objetivo a alcanzar es el siguiente.
 
-    Optimizar la utilización de los recursos: Analizar los datos de la base de datos para identificar patrones en la demanda de películas y la disponibilidad de las mismas. Con esta información, se podrían tomar medidas para optimizar la programación de las películas, la gestión del inventario y el uso del espacio físico de la empresa. Esto podría ayudar a maximizar la eficiencia y reducir los costos operativos.
+Optimizar la utilización de los recursos: Analizar los datos de la base de datos para identificar patrones en la demanda de películas y la disponibilidad de las mismas. Con esta información, se podrían tomar medidas para optimizar la programación de las películas, la gestión del inventario y el uso del espacio físico de la empresa. Esto podría ayudar a maximizar la eficiencia y reducir los costos operativos.
 
 Para alcanzar este objetivo se realizan 4 pasos, los cuales estan conectados en las querys por su nombre 
 
